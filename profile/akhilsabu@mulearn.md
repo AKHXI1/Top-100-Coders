@@ -13,7 +13,7 @@
 - Active member in IEEE SB SJCET design team.
 - Acitve member a Design head in NSS SJCET.
 - 
-- #### Networking:
+#### Networking:
 
 - I frequently attend tech events like hackathons where I meet new inspiring individuals.
 
@@ -23,12 +23,12 @@
 - I will stay updated on the latest technology trends.
 - It will boost my career and enhance my job opportunities.
 
-- #### Career Plan:
+#### Career Plan:
 
 - My short-term goals include working with my peers to help, guide, and motivate them.
 - My long-term plans include working as a Web Developer or become a Designer.
 
-- #### Thoughts on Kerala's Tech Ecosystem:
+#### Thoughts on Kerala's Tech Ecosystem:
 
 - The Kerala State government's initiative in nurturing new startups and providing them with incentives has led to the enormous growth of KSUM.
 - KSUM has developed various organizations to assist entrepreneurs in each step of their journey.
@@ -37,7 +37,7 @@
 
 - I am still learning new tools and technologies.
 
-- #### History of Community Engagement:
+#### History of Community Engagement:
 
 -  Active participant in Linkedin, GTech Mulearn,IEEE SB SJCET,NSS and GitHub.
 
